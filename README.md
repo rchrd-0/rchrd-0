@@ -1,5 +1,7 @@
 # 🫡 Hey there, I'm Richard!
-...
+* Front-end web developer with a passion for learning
+* Currently focused on learning the **MERN** stack
+* All my projects can be found here or over at [rchrd.co](https://rchrd.co)
 ## Languages, tools & tech
 <table>
   <tr>
