@@ -1,8 +1,8 @@
 # 🫡 Hey there, I'm Richard!
-* Front-end web developer with a passion for learning
-* Currently focused on learning the **MERN** stack
-* All my projects can be found here or over at [rchrd.co](https://rchrd.co)
-## Languages, tools & tech
+<!-- * Front-end web developer with a passion for learning -->
+<!-- * Currently focused on learning the **MERN** stack -->
+<!-- * All my projects can be found here or over at [rchrd.co](https://rchrd.co) -->
+<!-- ## Languages, tools & tech
 <table>
   <tr>
     <th colspan="4">Currently using</th>
@@ -74,9 +74,9 @@
       <img src="./assets/tailwind.png" alt="tailwind icon">
     </td>
   </tr>
-</table>
+</table> -->
 
-## Learning journey so far ...
+<!-- ## Learning journey so far ...
 ### 💬 In progress
 * Node.js, MongoDB & Express on [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
 ### 👀 Planning
@@ -84,4 +84,4 @@
 ### ✅ Completed
 * JavaScript & React on [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 * Foundations on [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
-* Responsive Web Design on [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+* Responsive Web Design on [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) -->
